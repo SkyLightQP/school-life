@@ -9,7 +9,7 @@
 - PC(Program Counter)에서 **다음 실행 할 주소를 MAR(Memory Address Register)으로 전달**합니다.
 - MAR의 주소 값을 이용하여 **주기억장치의 주소로 이동**합니다.
 - 주기억장치의 **명령을 MBR(Memory Buffer Register)에 저장**합니다.
-- 명령어에서 **OP Code 부분은 IR(Instruction Register)**으로 **Operand는 MAR**으로 이동됩니다.
+- 명령어에서 **OP Code 부분은 IR(Instruction Register)** 으로 **Operand는 MAR**으로 이동됩니다.
 - **직접, 간접 명령인지 판단**하여 전자의 경우 실행 사이클로 후자의 경우 간접 사이클로 이동됩니다.
 - 다음 명령 실행을 위해 **PC 값이 증가**합니다.
 
