@@ -5,3 +5,4 @@
 ### 1. [제어장치와 명령어](https://github.com/SkyLightQP/school-life/blob/master/Computer%20Arch/Instruction.md)
 ### 1-1. [주소](https://github.com/SkyLightQP/school-life/blob/master/Computer%20Arch/Address.md)
 ### 2. [메이저 사이클(Major Cycle)](https://github.com/SkyLightQP/school-life/blob/master/Computer%20Arch/MajorCycle.md)
+### 3. [마이크로 동작](https://github.com/SkyLightQP/school-life/blob/master/Computer%20Arch/Micro.md)
