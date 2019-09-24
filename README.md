@@ -3,3 +3,4 @@
 
 ## 컴퓨터 구조 
 ### 1. [제어장치와 명령어](https://github.com/SkyLightQP/school-life/blob/master/Instruction.md)
+### 1-1. [주소](https://github.com/SkyLightQP/school-life/blob/master/Address.md)
