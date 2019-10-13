@@ -1,5 +1,5 @@
+![Indirect Addressing Mode](./images/school-life.jpg)
 # School-Life
-> 학교에서 배운 내용을 정리합니다.
 
 ## 컴퓨터 구조 (Computer Architecture) (2학기 2차 평가)
 ### 1. [제어장치와 명령어](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Instruction.md)
