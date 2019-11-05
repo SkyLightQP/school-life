@@ -2,10 +2,16 @@
 # School-Life
 
 ## 컴퓨터 구조 (Computer Architecture) (2학기 2차 평가)
+## A. 제어장치
 ### 1. [제어장치와 명령어](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Instruction.md)
 ### 1-1. [주소](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Address.md)
 ### 2. [메이저 사이클(Major Cycle)](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/MajorCycle.md)
 ### 3. [마이크로 동작](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Micro.md)
+
+## B. 기억장치
+### 1. [기억장치의 종류와 특성](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/MemoryUnit.md)
+### 2. [주기억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Memory.md)
+
 
 ## 사회 - 경제 (2학기 1차 평가)
 ### 1. [자본주의의 역사적 전개 과정](https://github.com/SkyLightQP/school-life/blob/master/Social/Economy/CapitalismHistory.md)
