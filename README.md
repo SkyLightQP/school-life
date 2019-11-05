@@ -12,7 +12,7 @@
 ### 1. [기억장치의 종류와 특성](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/MemoryUnit.md)
 ### 2. [주기억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Memory.md)
 ### 3. [보조기억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Storage.md)
-### 4. [특수억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/SpecialMemory.md)
+### 4. [특수기억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/SpecialMemory.md)
 
 
 ## 사회 - 경제 (2학기 1차 평가)
