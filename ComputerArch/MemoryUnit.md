@@ -6,22 +6,20 @@
 > 프로그램 내장방식은 처리할 프로그램, 데이터를 주기억장치에 저장하고 CPU가 순서대로 인출해서 실행합니다.
 
 - 종류
-```diff
-- ROM(Read Only Memory)
-+ MASK ROM
-+ PROM
-+ EPROM
-+ EEPROM
-
-- RAM(Random Access Memory)
-+ SRAM
-+ DRAM
-++ SDRAM
-++ DDR SDRAM
-++ RDRAM
-
-- 자기 코어
-```
+    - ROM(Read Only Memory)
+        - MASK ROM
+        - PROM
+        - EPROM
+        - EEPROM
+    - RAM(Random Access Memory)
+        - SRAM
+        - DRAM
+            - SDRAM
+                - CPU 상승 클럭으로 재충전
+            - DDR SDRAM
+                - 상승, 하강 클럭 모두로 재충전
+            - RDRAM
+                - 전용 통로를 만듦, 속도 상승
 
 ## 보조기억장치
 용량이 큰 자료를 장시간 보관하기 위해 사용.
@@ -30,32 +28,28 @@
 - 비휘발성
 
 - 종류
-```diff
-- 순차적 접근 방식
-+ 자기 테이프
-+ 카세트 테이프
-+ 카트리지 테이프
-
-- 직접 접근 방식
-+ 자기 디스크
-++ 하드 디스크(HDD)
-+ 광디스크
-++ CD-ROM
-++ DVD-ROM
-++ Blu-ray 디스크
-+ SSD
-+ Flash Meomory
-```
+    - 순차적 접근 방식
+        - 자기 테이프
+        - 카세트 테이프
+        - 카트리지 테이프
+    - 직접 접근 방식
+        - 자기 디스크
+            - 하드 디스크(HDD)
+        - 광디스크
+            - CD-ROM
+            - DVD-ROM
+            -- Blu-ray 디스크
+        - SSD
+        - Flash Meomory
 
 ## 특수기억장치
 - 속도 빠름
 - CPU의 특수 용도
 
-```diff
-- 레지스터
-- 캐시 메모리
-- 연관 기억 장치
-```
+- 종류
+    - 레지스터
+    - 캐시 메모리
+    - 연관 기억 장치
 
 > 연관 기억 장치는 주소가 아닌 내용으로 메모리 위치에 접근합니다.
 
@@ -74,3 +68,11 @@
 | 속도 · 가격 | 낮음 | -> | -> | 높음 |
 | 용량 | 높음 | <- | <- | 낮음 |
 | | 보조기억장치 | 주기억장치(DRAM) | 주기억장치(SRAM) | 레지스터 |
+
+## 자료 기억 용량
+- 1 KB = 1024 byte = 2^10 byte
+- 1 MB = 1024 KB = 2^20 byte
+- 1 GB = 1024 MB = 2^30 byte
+- 1 TB = 1024 GB = 2^40 byte
+- 1 PB = 1024 TB = 2^50 byte
+- 1 EB = 1024 PB = 2^60 byte
