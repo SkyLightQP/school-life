@@ -1,7 +1,7 @@
 ![Indirect Addressing Mode](./images/school-life.jpg)
-# School-Life
+# 📒 School-Life
 
-## 컴퓨터 구조 (Computer Architecture) (2학기 2차 평가)
+## 컴퓨터 구조 (Computer Architecture)
 ## A. 제어장치
 ### 1. [제어장치와 명령어](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Instruction.md)
 ### 1-1. [주소](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Address.md)
@@ -14,8 +14,11 @@
 ### 3. [보조기억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Storage.md)
 ### 4. [특수기억장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/SpecialMemory.md)
 
+## C. 입출력장치
+### 1. [입력 장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/InputUnit.md)
+### 2. [출력 장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/OutputUnit.md)
 
-## 사회 - 경제 (2학기 1차 평가)
+## 사회 - 경제
 ### 1. [자본주의의 역사적 전개 과정](https://github.com/SkyLightQP/school-life/blob/master/Social/Economy/CapitalismHistory.md)
 ### 2. [합리적 선택과 시장의 한계](https://github.com/SkyLightQP/school-life/blob/master/Social/Economy/MarketEconomy.md)
 ### 3. [시장 경제 발전을 위한 기업가, 노동자, 소비자의 역할](https://github.com/SkyLightQP/school-life/blob/master/Social/Economy/RulesConsumerWorker.md)
