@@ -14,3 +14,6 @@
 ## C. 입출력장치
 ### 1. [입력 장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/InputUnit.md)
 ### 2. [출력 장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/OutputUnit.md)
+### 3. [입출력 방식](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/IOMethod.md)
+### 4. [인터페이스](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/Interface.md)
+### 5. [데이터 전송](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/DataTransfer.md)
