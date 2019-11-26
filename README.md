@@ -17,6 +17,7 @@
 ## C. 입출력장치
 ### 1. [입력 장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/InputUnit.md)
 ### 2. [출력 장치](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/OutputUnit.md)
+### 3. [입출력 방식](https://github.com/SkyLightQP/school-life/blob/master/ComputerArch/IOMethod.md)
 
 ## 사회 - 경제
 ### 1. [자본주의의 역사적 전개 과정](https://github.com/SkyLightQP/school-life/blob/master/Social/Economy/CapitalismHistory.md)
